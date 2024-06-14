@@ -26,3 +26,5 @@ def BMI_calculator():
             st.warning('Overweight')
         else:
             st.error('Obese')
+
+BMI_calculator()
